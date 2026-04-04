@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-sharma12&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-sharma12" /> </p>
 
-- 🔭 I’m built project like [Grow](https://grow-pink.vercel.app/)
-
-- 👯 Project [Talsky](https://talksy-1rvs.onrender.com/login)
-
 - 🤝 Project [Shortify](https://shortify-kappa.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://resume-sand-chi.vercel.app/](https://resume-sand-chi.vercel.app/)
